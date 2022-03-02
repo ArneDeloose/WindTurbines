@@ -1,9 +1,8 @@
-# Sirris_preprocessing
-Pre-processing notebook of the Sirris wind turbines dataset (Research program AI Flanders - GC1 PoC )
+# AI research Flanders: health monitoring for ageing wind turbines (GC1 PoC )
 
-This Github folder contains four files:
+This Github folder contains the following:
 
-* WindTurbinesSirris_Notebook_FullConversion.ipynb: a Jupyter notebook for the pre-processin
-* WindturbinesSirris_Notebook_WeatherPred.ipynb: a second notebook to correct for the weather
-* Sirris_Data pre-processing.pdf: pdf which explains each step of the pre-processing in greater detail.
-* AI_GC1_poster.pptx: research poster presented at AI research day (2019)
+* AI_GC1_poster.pptx: research poster presented at AI research day (2020)
+* WindTurbinesSirris_Notebook_FullConversion.ipynb: a Jupyter notebook for the pre-processing steps used
+* WindturbinesSirris_Notebook_WeatherPred.ipynb: a second notebook to correct for weather effects
+* Sirris_Data pre-processing.pdf: a pdf which explains each step of the pre-processing in greater detail.
